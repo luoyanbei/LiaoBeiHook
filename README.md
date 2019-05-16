@@ -3,6 +3,18 @@
 
 ## 主要代码
 ```
+#import <UIKit/UIKit.h>
+#import "Header.h"
+#import "_TtC3Jst29JST_RedpacketMessageViewModel.h"
+#import "SLCfGiveRedPacketMessageContentImpl.h"
+
+SLCtRedPacketAgent * agent;
+UIButton * grabRedpacketButton;
+_TtC3Jst29JST_RedpacketMessageViewModel * redpacketMessage;
+
+long long curGroupId;
+
+
 //红包消息Model
 %hook _TtC3Jst29JST_RedpacketMessageViewModel
 
@@ -62,6 +74,10 @@ NSLog(@"do--autoGrabRedpacket--finish");
 
 %end
 ```
+
+- 每当群内有红包消息，会触发 _TtC3Jst29JST_RedpacketMessageViewModel 类的 initWithSLCtMessage 方法，初始化一个红包信息model。
+- redpacketMessage 是一个全局变量，代表红包信息model,用于保存当前的红包信息。从 redpacketMessage 中能拿到属性 senderId 和 tradeNumber，这两个是抢红包的必备参数。
+- SLCtRedPacketAgent * agent; 是一个红包代理，用于处理红包的逻辑，这里只需要调用 "[agent sendCollectRedPacketRequestWithSLHttpCallback:nil withNSString:tradeNumber withLong:senderId withSLCtRedPacketChannel:channel]" 可实现秒抢红包。
 
 ## 使用
 - 直接下载工程，手机连接电脑，使用Xcode在手机运行工程即可。
