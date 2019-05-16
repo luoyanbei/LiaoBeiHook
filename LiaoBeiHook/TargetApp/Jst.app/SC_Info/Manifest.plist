@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/Jst.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/AMapWrapper.framework/SC_Info/AMapWrapper.sinf</string>
+		<string>Frameworks/ActionSheet.framework/SC_Info/ActionSheet.sinf</string>
+		<string>Frameworks/Album.framework/SC_Info/Album.sinf</string>
+		<string>Frameworks/AlertController.framework/SC_Info/AlertController.sinf</string>
+		<string>Frameworks/AnimationStore.framework/SC_Info/AnimationStore.sinf</string>
+		<string>Frameworks/AudioChat.framework/SC_Info/AudioChat.sinf</string>
+		<string>Frameworks/AwesomeCollection.framework/SC_Info/AwesomeCollection.sinf</string>
+		<string>Frameworks/Chat.framework/SC_Info/Chat.sinf</string>
+		<string>Frameworks/Core.framework/SC_Info/Core.sinf</string>
+		<string>Frameworks/DZNEmptyDataSet.framework/SC_Info/DZNEmptyDataSet.sinf</string>
+		<string>Frameworks/DateToolsSwift.framework/SC_Info/DateToolsSwift.sinf</string>
+		<string>Frameworks/DeepDiff.framework/SC_Info/DeepDiff.sinf</string>
+		<string>Frameworks/Dwifft.framework/SC_Info/Dwifft.sinf</string>
+		<string>Frameworks/EFQRCode.framework/SC_Info/EFQRCode.sinf</string>
+		<string>Frameworks/Eureka.framework/SC_Info/Eureka.sinf</string>
+		<string>Frameworks/FDFullscreenPopGesture.framework/SC_Info/FDFullscreenPopGesture.sinf</string>
+		<string>Frameworks/HUD.framework/SC_Info/HUD.sinf</string>
+		<string>Frameworks/ImageSlideshow.framework/SC_Info/ImageSlideshow.sinf</string>
+		<string>Frameworks/MGSwipeTableCell.framework/SC_Info/MGSwipeTableCell.sinf</string>
+		<string>Frameworks/Map.framework/SC_Info/Map.sinf</string>
+		<string>Frameworks/Masonry.framework/SC_Info/Masonry.sinf</string>
+		<string>Frameworks/Mesh.framework/SC_Info/Mesh.sinf</string>
+		<string>Frameworks/ObjcExceptionBridging.framework/SC_Info/ObjcExceptionBridging.sinf</string>
+		<string>Frameworks/OpusAudio.framework/SC_Info/OpusAudio.sinf</string>
+		<string>Frameworks/Passcode.framework/SC_Info/Passcode.sinf</string>
+		<string>Frameworks/PinLayout.framework/SC_Info/PinLayout.sinf</string>
+		<string>Frameworks/PopoverImagePicker.framework/SC_Info/PopoverImagePicker.sinf</string>
+		<string>Frameworks/ReactiveCocoa.framework/SC_Info/ReactiveCocoa.sinf</string>
+		<string>Frameworks/ReactiveObjC.framework/SC_Info/ReactiveObjC.sinf</string>
+		<string>Frameworks/ReactiveSwift.framework/SC_Info/ReactiveSwift.sinf</string>
+		<string>Frameworks/Result.framework/SC_Info/Result.sinf</string>
+		<string>Frameworks/RxCocoa.framework/SC_Info/RxCocoa.sinf</string>
+		<string>Frameworks/RxSwift.framework/SC_Info/RxSwift.sinf</string>
+		<string>Frameworks/SSZipArchive.framework/SC_Info/SSZipArchive.sinf</string>
+		<string>Frameworks/SearchBar.framework/SC_Info/SearchBar.sinf</string>
+		<string>Frameworks/SnapKit.framework/SC_Info/SnapKit.sinf</string>
+		<string>Frameworks/Spring.framework/SC_Info/Spring.sinf</string>
+		<string>Frameworks/VideoChatWrapper.framework/SC_Info/VideoChatWrapper.sinf</string>
+		<string>Frameworks/VideoPlayer.framework/SC_Info/VideoPlayer.sinf</string>
+		<string>Frameworks/Wallpaper.framework/SC_Info/Wallpaper.sinf</string>
+		<string>Frameworks/WebViewJavascriptBridge.framework/SC_Info/WebViewJavascriptBridge.sinf</string>
+		<string>Frameworks/XCGLogger.framework/SC_Info/XCGLogger.sinf</string>
+		<string>Frameworks/pop.framework/SC_Info/pop.sinf</string>
+		<string>PlugIns/QuickShareComponent.appex/SC_Info/QuickShareComponent.sinf</string>
+		<string>SC_Info/Jst.sinf</string>
+	</array>
+</dict>
+</plist>

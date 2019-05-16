@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+"Common.Done" = "完成";
+"Embed.PlayingInPIP" = "视屏正在画中画模式播放";

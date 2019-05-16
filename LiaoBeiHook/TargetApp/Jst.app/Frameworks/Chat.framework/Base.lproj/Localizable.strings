@@ -1,0 +1,74 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+"Common.Done" = "完成";
+"Chat.Confirm" = "确认";
+"Chat.Copy" = "复制";
+"Chat.Cancel" = "取消";
+"Chat.MediaChoose" = "选择";
+"App.Cancel" = "取消";
+"App.Chat" = "聊天";
+"App.Search" = "搜索";
+"App.CallTelephone" = "拨打电话";
+"App.Settings" = "设置";
+
+"MediaAssetsPicker.Send" = "发送";
+"MediaAssetsPicker.Cancel" = "取消";
+"MediaAssetsPicker.Back" = "返回";
+"MediaAssetsPicker.Edit" = "编辑";
+"MediaAssetsPicker.OriginalPicture" = "原图";
+"Album.title" = "相册";
+
+"CarouseAttachment.Send" = "发送";
+"CarouseAttachment.SendOriginal" = "发送原图";
+"CarouseAttachment.EditorCaption" = "编辑文字";
+"CarouseAttachment.Cancel" = "取消";
+"CarouseAttachment.SendImage" = "发送%i张照片";
+"CarouseAttachment.SendVideo" = "发送%i个视频";
+"CarouseAttachment.SendImageVideo" = "发送%i张照片，%i个视频";
+"CarouseAttachment.SendOriImage" = "发送%i张原图";
+"CarouseAttachment.SendOriVideo" = "发送%i个原视频";
+"CarouseAttachment.SendOriImageVideo" = "发送%i张原图，%i个原视频";
+"CarouseAttachment.FileSizeMB" = " (共%.1fM)";
+"CarouseAttachment.FileSizeKB" = " (共%.1fK)";
+
+"Chat.MessageForward" = "转发";
+"Chat.MessageDelete" = "删除";
+"Chat.MessageClear" = "清空消息";
+"Chat.Save" = "保存";
+"Chat.SelectPhoneNumberTipsTitle" = "可能是一个电话号码";
+"Chat.SendMail" = "发送邮件";
+"Chat.SeparateLineRender" = "以下为新消息";
+"Chat.RecordMessage" = "请允许应用对麦克风的访问权限";
+
+"InputBar.Send" = "发送";
+"InputBar.LongPressToReacdeTip" = "长按录音";
+"InputBar.SearchNoResult" = "没有结果";
+
+"AnimationStore.Title" = "表情商店";
+"AnimationStore.DownlaodTitle" = "下载";
+"AnimationStore.AlreadyDownloaded" = "已下载";
+"AnimationStore.ManagerTitle" = "表情管理";
+"AnimationStore.DetailTitle" = "表情详情";
+"AnimationStore.DeleteAniamitonTip" = "您确定要删除此表情？删除后可从表情商店重新下载。";
+"AnimationStore.DeleteAniamitonConfirm" = "确定";
+"AnimationStore.DeleteAniamitonCancel" = "取消";
+"AnimationStoreDetail.LongPressPreview" = "长按表情可预览";
+"AnimationStore.ManagerEditor" = "编辑";
+"AnimationStore.ManagerEditorConfrim" = "确定";
+
+"CustomSticker.NoDataTip" = "长按图片、表情、视频添加收藏";
+
+"SharedMedia.Picture" = "图片";
+"SharedMedia.File" = "文件";
+"SharedMedia.Link" = "链接";
+"SharedMedia.NoChatPhoto" = "还没有聊天图片";
+"SharedMedia.NoChatLink" = "还没有聊天链接";
+"SharedMedia.NoChatFile" = "还没有聊天文件";
+"SharedMedia.NoChatPhotoExtra" = "您可在任意设备上访问共享\n在此聊天室中的图片和视频";
+"SharedMedia.NoChatLinkExtra" = "共享在聊天室的链接会在这\n里归档";
+"SharedMedia.NoChatFileExtra" = "您可收发任意格式的文件\n并在其他设备上访问";

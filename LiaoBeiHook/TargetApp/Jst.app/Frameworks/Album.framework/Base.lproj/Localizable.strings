@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+"Common.Done" = "完成";
+"Embed.PlayingInPIP" = "视屏正在画中画模式播放";
+"MediaAssetsPicker.Send" = "发送";
+"MediaAssetsPicker.Cancel" = "取消";
+"MediaAssetsPicker.Back" = "返回";
+"MediaAssetsPicker.Edit" = "编辑";
+"MediaAssetsPicker.OriginalPicture" = "原图";
+"Album.title" = "相册";
+
+"MediaEditor.Reset" = "重置";
+"MediaEditor.Original" = "原始";
+"MediaEditor.Square" = "正方形";
+"MediaEditor.Cancel" = "取消";
+"MediaEditor.CompressingVideo" = "正在压缩视频";
+"MediaEditor.PlayRateVerySlow" = "极慢";
+"MediaEditor.PlayRateSlow" = "慢";
+"MediaEditor.PlayRateNormal" = "标准";
+"MediaEditor.PlayRateFast" = "快";
+"MediaEditor.PlayRateVeryFast" = "极快";
+
+"MediaFilter.Original" = "原图";
+"MediaFilter.Chrome" = "铬黄";
+"MediaFilter.Noir" = "黑白";
+"MediaFilter.Process" = "冲印";
+"MediaFilter.Transfer" = "岁月";
+"MediaFilter.Instant" = "怀旧";
+"MediaFilter.Fade" = "褪色";
+
+"Image.LoadFailure" = "图片加载失败";

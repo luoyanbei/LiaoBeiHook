@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Love
+
+  Created by Dylan on 10/07/2017.
+  Copyright © 2017 liao. All rights reserved.
+*/
+"Map.OpenMapWithBaiduMap" = "百度地图打开";
+"Map.OpenMapWithAppleMap" = "苹果地图打开";
+"Map.OpenMap" = "打开地图";
+"Map.HisLocation" = "Ta的位置";
+"Map.Search" = "搜索";
+"Map.Title" = "位置";
+"Map.Location" = "[位置]";
+"Map.Cancel" = "取消";

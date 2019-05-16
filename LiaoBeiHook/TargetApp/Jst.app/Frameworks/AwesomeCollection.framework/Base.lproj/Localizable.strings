@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+"Common.Cancel" = "取消";
+"Common.Search" = "搜索";
+"Common.NoSearchResult" = "无搜索结果";
+"Common.LoadFailure" = "加载失败点击重试!";

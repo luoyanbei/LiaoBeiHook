@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+
+"App.Cancel" = "取消";
+
+"AudioChat.Cancel" = "挂断";
+"AudioChat.Accpet" = "接听";
+"AudioChat.Mute" = "静音";
+"AudioChat.CancelMute" = "取消静音";
+"AudioChat.Speaker" = "扬声器接听";
+"AudioChat.DisableSpeaker" = "听筒接听";
+"AudioChat.InitWithReceiver" = "请使用听筒接听";
+"AudioChat.SpeakerTip" = "当前为扬声器模式";
+"AudioChat.DisableSpeakerTip" = "当前为听筒模式";

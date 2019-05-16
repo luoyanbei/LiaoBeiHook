@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+
+"App.Confirm" = "确认";
+"App.Cancel" = "取消";
+"Wallpaper.ListTitle" = "聊天背景";
+"Wallpaper.FromPhoto" = "从相册选取";

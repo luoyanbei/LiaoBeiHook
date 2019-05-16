@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+"Common.Done" = "完成";
+"Slideshow.OriginalImage" = "原图";
+"Chat.Save" = "保存到相册";
+"MediaAssetsPicker.Cancel" = "取消";
+"App.QRCodeRecognize" = "识别图中二维码";

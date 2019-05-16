@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+"AnimationStore.Title" = "表情商店";
+"AnimationStore.DownlaodTitle" = "下载";
+"AnimationStore.AlreadyDownloaded" = "已下载";
+"AnimationStore.ManagerTitle" = "表情管理";
+"AnimationStore.DetailTitle" = "表情详情";
+"AnimationStore.DeleteAniamitonTip" = "您确定要删除此表情？删除后可从表情商店重新下载。";
+"AnimationStore.DeleteAniamitonConfirm" = "确定";
+"AnimationStore.DeleteAniamitonCancel" = "取消";
+"AnimationStoreDetail.LongPressPreview" = "长按表情可预览";
+"AnimationStore.ManagerEditor" = "编辑";
+"AnimationStore.ManagerEditorConfrim" = "确定";

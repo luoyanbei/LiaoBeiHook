@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+
+"MediaAssetsPicker.Send" = "发送";
+"MediaAssetsPicker.Cancel" = "取消";
+"MediaAssetsPicker.FromAlbum" = "相册选取";
+"MediaEditor.Cancel" = "取消";
+"MediaEditor.CompressingVideo" = "正在压缩视频";
+
+"CarouseAttachment.Send" = "发送";
+"CarouseAttachment.Confirm" = "确定";
+"CarouseAttachment.TipSend" = " 松手发送 ";
+"CarouseAttachment.SendOriginal" = "发送原图";
+"CarouseAttachment.EditorCaption" = "编辑文字";
+"CarouseAttachment.Cancel" = "取消";
+"CarouseAttachment.SendImage" = "发送%i张照片";
+"CarouseAttachment.SendVideo" = "发送%i个视频";
+"CarouseAttachment.SendImageVideo" = "发送%i张照片，%i个视频";
+"CarouseAttachment.SendOriImage" = "发送%i张原图";
+"CarouseAttachment.SendOriVideo" = "发送%i个原视频";
+"CarouseAttachment.SendOriImageVideo" = "发送%i张原图，%i个原视频";
+"CarouseAttachment.FileSizeMB" = " (共%.1fM)";
+"CarouseAttachment.FileSizeKB" = " (共%.1fK)";

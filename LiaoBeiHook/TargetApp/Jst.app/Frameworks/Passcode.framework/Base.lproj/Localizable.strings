@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  VideoPlayer-Swift
+
+  Created by kingxt on 2017/2/26.
+  Copyright © 2017 kingxt. All rights reserved.
+*/
+
+"Setting.Passcode" = "密码锁";
+"Passcode.Cancel" = "取消";
+"Passcode.Delete" = "删除";
+"Passcode.SettingTrunOn" = "打开密码锁";
+"Passcode.SettingTrunOff" = "关闭密码锁";
+"Passcode.SettingChange" = "更换密码锁";
+"Passcode.SettingTouchID" = "使用Touch ID解锁";
+"Passcode.SettingTip" = "当您设置了密码锁，%@切到后台自动加锁，再次切到前台时需输入密码。\n\n若遗忘了密码锁，您需重新安装%@";
+"Passcode.KeyboardInputTouchID" = "请按指纹";
+"Passcode.KeyboardEntry" = "请输入密码";
+"Passcode.KeyboardTryAgainOneMin" = "请于一分钟后重试";
+"Passcode.KeyboardAttempts" = "第%i次密码输入错误";
+"Passcode.KeyboardEntryAgain" = "请再次输入密码";
+"Passcode.KeyboardEntryCurrent" = "请输入现有密码";
+"Passcode.KeyboardEntryNew" = "请输入新的密码";
+"Passcode.KeyboardEntryNewAgain" = "请再次输入新的密码";
