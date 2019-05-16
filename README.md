@@ -68,10 +68,13 @@ NSLog(@"do--autoGrabRedpacket--finish");
 - 进入群聊页面，自动秒抢当前群内红包。
 
 
+
 ## 代码仅供学习交流，感谢您 帮忙在右上角 点个“⭐️”，非常感谢。
+
 
 ## 关注公众号：逆向APP
 <div align=center><img width="258" height="258" src="./images/qrcode_gongzhonghao.jpg"/>
+
 
 ## 多谢支持 ^_^
 <div align=center><img width="240" height="200" src="./images/zhifubao@2x.png"/><t/><img width="240" height="200" src="./images/wechatpay@2x.png"/></div>
